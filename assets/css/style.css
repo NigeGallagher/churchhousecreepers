@@ -6,6 +6,18 @@
     margin: 0;
     box-sizing: border-box;
 }
+/* General styles */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* Generic project styles */
+    color: #ffffff;
+    font-family: 'Courier Prime', serif;
+}
+h1 {
+    font-family: 'Bebas Neue', sans-serif;
+}
 
 /* Header */
 header {
