@@ -75,11 +75,18 @@ header a {
 
 /* Main content */
 main {
-    background-color: lightblue;
+    background-color: rgb(0, 0, 0);
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 36px;
 
+}
+
+/* Hero section */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url(../images/chc_hero.png) no-repeat center center/cover;
 }
 
 /* Footer */
