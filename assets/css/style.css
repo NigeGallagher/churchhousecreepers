@@ -19,6 +19,14 @@ h1 {
     font-family: 'Bebas Neue', sans-serif;
     font-size: 1.5em;
 }
+h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1.5em;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 70px;
+
+}
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
