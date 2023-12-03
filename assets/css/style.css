@@ -28,21 +28,8 @@ h3 {
     font-size: 1.5em;
     color: #ffffff;
     text-align: center;
-    padding-top: 70px;
-
+    padding: 20px;
 }
-
-.container {
-    text-align: center; 
-    padding-top: 60px;
-  }
-  
-.container table {
-    margin: 0 auto;
-    width: 100%; 
-    table-layout: auto;
-}
-
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
@@ -113,6 +100,24 @@ main {
     height: 600px;
     width: 100%;
     background: url(../images/chc_hero.png) no-repeat center center/cover;
+}
+
+/* Background texture */
+#bg-texture {
+    height: 600px;
+    width: 100%;
+    background: url(../images/chc_bg_texture.png) no-repeat center center/cover;
+}
+
+.container {
+    text-align: center; 
+    padding-top: 60px;
+  }
+  
+.container table {
+    margin: 0 auto;
+    width: 100%; 
+    table-layout: auto;
 }
 
 /* Footer */
