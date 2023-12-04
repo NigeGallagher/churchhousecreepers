@@ -100,6 +100,7 @@ main {
     height: 600px;
     width: 100%;
     background: url(../images/chc_hero.png) no-repeat center center/cover;
+    bottom: 30px;
 }
 
 /* Background texture */
