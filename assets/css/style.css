@@ -112,7 +112,6 @@ main {
 }
 
 
-
 .video-container {
     position: relative;
     overflow: hidden;
@@ -148,6 +147,14 @@ main {
     margin: 0 auto;
     width: 100%;
     table-layout: auto;
+}
+
+th,
+td {
+  width: 150px;
+  text-align: center;
+  border: 5px white;
+  padding: 5px;
 }
 
 /* Footer */
