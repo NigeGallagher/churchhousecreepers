@@ -108,7 +108,8 @@ main {
     height: 600px;
     width: 100%;
     background: url(../images/chc_hero.png) no-repeat center center/cover;
-    bottom: 30px;
+    height: 100vh;
+    position: relative;
 }
 
 
@@ -118,6 +119,10 @@ main {
     width: 100%;
     padding-top: 56.25%;
     /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+    background-color: #b3df2a;
+    text-align: center;
+    padding-bottom: 0.5rem;
+    color:#000000
 }
 
 /* Then style the iframe to fit in the container div with full height and width */
