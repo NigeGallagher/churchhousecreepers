@@ -122,7 +122,8 @@ main {
     background-color: #b3df2a;
     text-align: center;
     padding-bottom: 0.5rem;
-    color:#000000
+    color: #000000;
+
 }
 
 /* Then style the iframe to fit in the container div with full height and width */
@@ -157,9 +158,9 @@ main {
 
 th,
 td {
-  width: 150px;
-  text-align: center;
-  padding: 5px;
+    width: 150px;
+    text-align: center;
+    padding: 5px;
 }
 
 /* Footer */
@@ -221,5 +222,3 @@ td {
 
 
     }
-
-}

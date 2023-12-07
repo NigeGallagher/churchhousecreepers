@@ -2,7 +2,8 @@
 
 Church House Creepers is a website for an up-and-coming punk band from Sligo, Ireland. The site will be tagerted towards punk and rock music fans who would like to listen to the bands music and keep up-to-date with their upcoming live shows. The site should also give a flavour of the bands style and personality.
 
-![Responsive Mockup](/workspace/churchhousecreepers/Mock-ups/mock_up_chc.jpg)
+
+![Responsive Mockup](documentation/mock_up_chc.jpg)
 
 ## Features 
 
@@ -14,21 +15,21 @@ Church House Creepers is a website for an up-and-coming punk band from Sligo, Ir
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Shows and Music page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](documentation/navbar.png)
 
 - __The landing page image__
 
-  - The landing includes a photograph of the band playing live 
-  - This section introduces the user to band and gives a sense of thier energy
+  - The landing includes a photograph of the band playing live.
+  - This section introduces the user to band and gives a sense of thier energy.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](documentation/landing_page.png)
 
 - __Shows 
 
   - The shows page gives a list of upcoming live shows. 
-  - The user will easily keep up-to-date with the bands live 
+  - The user will easily keep up-to-date with the bands live.
 
-![Shows](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Shows](documentation/shows.png)
 
 - __Music Section__
 
@@ -84,7 +85,7 @@ This section should describe the process you went through to deploy the project 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://nigegallagher.github.io/churchhousecreepers/
+The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
 
 
 ## Credits 
