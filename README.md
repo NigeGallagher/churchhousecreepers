@@ -43,13 +43,42 @@ Church House Creepers is a website for an up-and-coming punk band from Sligo, Ir
   - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](documentation/footer.png)
+
+## Design
+
+-   ### Imagery
+    -   The hero and large background images have been chosen because they are eye-catching, fresh and bright.  The citrus and light pastel colours in the images were chosen to help convey a sense of energy, health and freshness.  The images depict fruit to align with the main business goal of selling juices and smoothies and were chosen for their "simplicity" (- e.g. a single type of fruit or repeating theme) to help keep the site clear and easy to use.
+
+-   ### Colour Scheme
+    -  A citrus/pastel palette was chosen to convey a fresh, energetic mood.  The colours picked were inspired by a palette from [Lily Bug Design](https://www.lilybugdesign.co.nz/colour-wall)
+
+        ![Colour Palette](documentation/supp-images/citruspalette.png)
+
+-   ### Typography
+    -   Google Fonts were used to import Lato and Oswald fonts into styles.css.  These were chosen as they work well together and have a simple, unembellished, modern feel that is easy to read.
 
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
+-   ### Wireframes
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+    -   #### Main Page Wireframes
 
+        ![Main](documentation/wireframes/home_laptop.png
+
+    -   #### Music Page Wireframe
+
+        ![Menu](documentation/wireframes/menu-page.png)
+
+    -   #### Contact Page Wireframes
+
+        ![Contact](documentation/wireframes/contact-page.png)
+
+## Technologies Used
+
+### Languages Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 ### Features Left to Implement
 
 - Another feature I would like to add in future would be a shop for band merchandise.
