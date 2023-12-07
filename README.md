@@ -63,7 +63,7 @@ Church House Creepers is a website for an up-and-coming punk band from Sligo, Ir
 
     -   #### Main Page Wireframes
 
-        ![Main](documentation/wireframes/home_laptop.png
+        ![Main](documentation/wireframes/home_laptop.png)
 
     -   #### Music Page Wireframe
 
