@@ -85,14 +85,14 @@ Church House Creepers is a website for an up-and-coming punk band from Sligo, Ir
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
+| Test Label           | Steps                                                                           | Expected Outcomes                                            | Result |
+| -------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------ |
+| Navigation - Nav Bar | Go to main website (home page) and check nav bar links and repeat for all pages | Links work correctly and user is brought to the correct page | Pass   |
+| Navigation - social  | Click each social media link on each of the three pages Home, Shows, Music      | Links bring user to correct social media pages               | Pass   |
+| UX landing page      | Check main image is responsive                                                  | Image fills screen on various screen sizes                   | Pass   |
+| UX shows             | Test tabel and contents on shows page                                           | Information responds to varoius screen sizes and is legible  | Pass   |
+| UX music             | Check iFrames are responsive on all videos                                      | Videos respond to various screen sizes                       | Pass   |
+| Music page           | Test all video content is displaying correcty                                   | All videos play correctly                                    | Pass   |
 
 ### Validator Testing 
 
