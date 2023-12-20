@@ -93,8 +93,6 @@ main {
     height: 100vh;
     position: relative;
 }
-
-
 #main {
     width: 100%;
     padding-top: 56.25%;
@@ -103,6 +101,15 @@ main {
     text-align: center;
     padding-bottom: 0.5rem;
     color:#000000
+}
+
+.video-container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%;
+    background-color: #b3df2a;
+    /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
 }
 
 /* Then style the iframe to fit in the container div with full height and width */
@@ -114,7 +121,7 @@ main {
     right: 0;
     width: 100%;
     height: 100%;
-    padding: 2.5rem;
+    padding: 10%;
 }
 /* Background texture */
 #bg-texture {
